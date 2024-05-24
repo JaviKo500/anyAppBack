@@ -8,7 +8,6 @@
 		"directus-extension",
 		"directus-extension-hook"
 	],
-	"type": "module",
 	"files": [
 		"dist"
 	],
@@ -24,7 +23,7 @@
 		"link": "directus-extension link"
 	},
 	"devDependencies": {
-		"@directus/extensions-sdk": "11.0.5",
+		"@directus/extensions-sdk": "^11.0.4",
 		"@types/node": "^20.12.12",
 		"typescript": "^5.4.5"
 	}
